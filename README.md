@@ -1,2 +1,3 @@
 # ErstesRepository
-Keine Description
+Erste Description
+Hier steht ein Text
